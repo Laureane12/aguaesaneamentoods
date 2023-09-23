@@ -1,0 +1,36 @@
+#titulo{
+        color: rgba(14, 122, 216, 0.911);
+        font-size: 50px;
+        font-family: fantasy;
+}
+
+div {
+    margin: 50px 100px;
+    color: rgb(23, 24, 23); 
+    
+}
+body{
+    margin: 100px;
+    border-top: 0px;
+    border: 10px;
+        text-align: justify;
+    color: rgb(255,0,0);
+    background-color: rgba(148, 236, 236, 0.445);
+    font-weight: bold;
+    
+}
+    p { text-align: center; }
+    h1,h2,h3,h4 { text-align: center; }
+    img{
+        display:block ;
+        width: 100%;
+        height: auto;
+        border: 5px solid #555;
+}
+    
+    footer{
+        text-align: center;
+        background-color: aqua;
+        background-size: 100% 50%;
+        
+}
